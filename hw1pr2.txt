@@ -1,7 +1,7 @@
 .txt
 //CSCI 1550: HW 1, Problem 2
 //Filename: hwlpr2.txt
-//Name (s): Eric 
+//Name (s): Eric ..
 //
 //Task 1: Blow me away - says the paper airplane!
 Step 1. fold the paper in halves.
